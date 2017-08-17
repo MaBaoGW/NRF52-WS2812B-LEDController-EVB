@@ -7,7 +7,8 @@ EVB code for LED controller based on NRF52 and WS2812B led strip
 
 
 
-
+## SPI part from 
+[https://github.com/takafuminaka/nRF52832]
 
 ## Android Sample code
 [https://github.com/MaBaoGW/LED-Android-Sample]
