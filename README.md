@@ -33,4 +33,6 @@ EVB code for LED controller based on NRF52 and WS2812B led strip
 
 <img alt="Crescendo sequence" src="/pic/1504706786.gif" width="300"/>
 
-[![Audi R8](http://img.youtube.com/vi/kpu4p5HaxgA/0.jpg)](https://www.youtube.com/watch?v=kpu4p5HaxgA "Audi R8")
+[![哭哭](http://img.youtube.com/vi/kpu4p5HaxgA/0.jpg)](https://www.youtube.com/watch?v=kpu4p5HaxgA "哭哭")
+
+
