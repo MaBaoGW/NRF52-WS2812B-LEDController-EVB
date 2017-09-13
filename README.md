@@ -21,18 +21,16 @@ EVB code for LED controller based on NRF52 and WS2812B led strip
 
 <img alt="Crescendo sequence" src="/pic/Equipment.jpg" width="1000"/>
 
+## Demo video
+
+[![LED](http://img.youtube.com/vi/OZ7Efc-QP9c/0.jpg)](https://www.youtube.com/watch?v=OZ7Efc-QP9c "LED")
+
+[![LED](http://img.youtube.com/vi/pRjLmnnzIZ0/0.jpg)](https://www.youtube.com/watch?v=pRjLmnnzIZ0 "LED")
 
 ## SPI part from 
 [https://github.com/takafuminaka/nRF52832]
 
 ## Android Sample code
 [https://github.com/MaBaoGW/LED-Android-Sample]
-
-
-## ------------------------
-
-<img alt="Crescendo sequence" src="/pic/1504706786.gif" width="300"/>
-
-[![哭哭](http://img.youtube.com/vi/kpu4p5HaxgA/0.jpg)](https://www.youtube.com/watch?v=kpu4p5HaxgA "哭哭")
 
 
